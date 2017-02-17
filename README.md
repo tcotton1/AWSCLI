@@ -1,0 +1,2 @@
+# AWSCLI
+AWS CLI scripts
